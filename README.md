@@ -1,3 +1,3 @@
 # ko.signalr.selfhost.akka
-browser --> html website [nodejs]  --> self hosted api [console application]  --> akka --> signalr
+clients[ computer-browser/mobile app] --> html website [nodejs]  --> self hosted api [console application]  --> akka.net [console application]--> signalr
 
