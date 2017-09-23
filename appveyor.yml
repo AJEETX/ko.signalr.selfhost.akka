@@ -7,5 +7,4 @@ build:
 deploy:
 - provider: Environment
   name: test
-  before_build:
-  - nuget restore
+ 
