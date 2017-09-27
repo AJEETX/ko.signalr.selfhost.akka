@@ -9,5 +9,5 @@
  (c) Actor-model akka.net = [message-passing]
  (d) signalr = push data to front-end
 
-## clients[ computer-browser/mobile app] --> (a) html website [nodejs]  --> (b) self hosted api [console application]  -->  (c) akka.net [console application]--> (d) signalr
+## clients[ computer-browser/mobile app] --> (a) html website [nodejs/iis]  --> (b) self hosted api [console application]  -->  (c) akka.net [console application]--> (d) signalr
 

@@ -1,4 +1,4 @@
-﻿var baseUrl = 'http://localhost:999/';
+﻿var baseUrl = 'http://localhost:9876/';
 
 $(function () {
     var connection = $.hubConnection(baseUrl);

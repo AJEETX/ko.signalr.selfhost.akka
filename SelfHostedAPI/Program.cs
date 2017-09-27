@@ -13,7 +13,7 @@ namespace SelfHostedAPI
     {
         static void Main(string[] args)
         {
-            string baseAddress = "http://localhost:999/";
+            string baseAddress = "http://localhost:9876/";
             SetupActorSystem.Start();
             string actorSystemName = ConfigurationManager.AppSettings["actorSystemName"];
             Console.Title = actorSystemName;
