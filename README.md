@@ -11,3 +11,26 @@
 
 ## clients[ computer-browser/mobile app] --> (a) html website [nodejs/iis]  --> (b) self hosted api [console application]  -->  (c) akka.net [console application]--> (d) signalr
 
+# Setup and run the application:
+
+1. Environment:  VS2015 + MSSql Server
+2. Create Database by name="AkkaData" 
+3. Restore nugets
+4. Build 
+
+If all goes good, then we need to run the projects one by one in sequence as listed in order below:
+1. Run the Akka.DB console project [in non admin mode, in case of issue]
+	Database actor system is up-and running
+
+2. Then run Akka.Service console project
+	Service actor system is up-and running
+
+3. Run the SelfHostedapi console project in admin mode
+	Self hosted api is up-and running
+
+4. Run WebAPIClient
+	home.html page displays the data.
+	Please do CRUD operation..
+
+cheers...
+
