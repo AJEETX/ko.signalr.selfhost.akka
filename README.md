@@ -35,6 +35,8 @@ If all goes good, then we need to run the projects one by one in sequence as lis
 
 	home.html page displays the data.
 
+	![Alt text](/page.png?raw=true "Home page")
+	
 	Please do CRUD operation and have play around.
 
 cheers...
