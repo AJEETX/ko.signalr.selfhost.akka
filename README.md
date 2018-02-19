@@ -1,4 +1,5 @@
-# A simple Reactive system with message-passing 
+```
+> #akka.net based highly scalable reactive web-application
 
 > [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
@@ -13,7 +14,7 @@ Having trouble with Pages? Check out our [documentation](https://github.com/AJEE
 
 > [![HitCount](http://hits.dwyl.io/ajeetx//ko.signalr.selfhost.akka/projects/1.svg)](http://hits.dwyl.io/ajeetx//ko.signalr.selfhost.akka/projects/1)
 
-
+# A simple Reactive system with message-passing 
 
 <img width="1469" alt="reactivesystem" src="https://user-images.githubusercontent.com/16511837/30899573-bfa516e0-a3a3-11e7-9783-1cfd3a4934fd.png">
 
