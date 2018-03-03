@@ -5,7 +5,7 @@
 
 > [![Build Status](https://travis-ci.org/AJEETX/ko.signalr.selfhost.akka.png?branch=master)](https://travis-ci.org/AJEETX/ko.signalr.selfhost.akka)
 
-> (https://img.shields.io/badge/dependency-none-brightgreen.svg)](https://img.shields.io/badge/dependency-none-brightgreen.svg)
+> [![Dependency Status]https://img.shields.io/badge/dependency-none-brightgreen.svg)](https://img.shields.io/badge/dependency-none-brightgreen.svg)
 
 ### Support or Contact
 
