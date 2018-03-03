@@ -1,22 +1,26 @@
-# A simple Reactive system with message-passing 
+# A simple Reactive system with message-passing ![GitHub release](https://img.shields.io/github/release/ajeetx/ko.signalr.selfhost.akka.svg?style=for-the-badge)
 
 > akka.net based highly scalable reactive web-application
 
 | Version | Build | DotNet | Dependency |
 | --- | --- | --- | --- |
-| ![GitHub release](https://img.shields.io/github/release/ajeetx/ko.signalr.selfhost.akka.svg?style=for-the-badge) | [![Build Status](https://travis-ci.org/AJEETX/ko.signalr.selfhost.akka.png?branch=master&style=for-the-badge)](https://travis-ci.org/AJEETX/ko.signalr.selfhost.akka) | [![.Net Framework](https://img.shields.io/badge/DotNet-4.6.1-blue.svg?style=plastic)](https://www.microsoft.com/en-au/download/details.aspx?id=49981) | [![dependencies Status](https://img.shields.io/badge/dependency-none-brightgreen.svg?style=plastic)](https://img.shields.io/badge/dependency-none-brightgreen.svg) |
+| ![GitHub release](https://img.shields.io/github/release/ajeetx/ko.signalr.selfhost.akka.svg) | [![Build Status](https://travis-ci.org/AJEETX/ko.signalr.selfhost.akka.png?branch=master&style=for-the-badge)](https://travis-ci.org/AJEETX/ko.signalr.selfhost.akka) | [![.Net Framework](https://img.shields.io/badge/DotNet-4.6.1-blue.svg?style=plastic)](https://www.microsoft.com/en-au/download/details.aspx?id=49981) | [![dependencies Status](https://img.shields.io/badge/dependency-none-brightgreen.svg?style=plastic)](https://img.shields.io/badge/dependency-none-brightgreen.svg) |
 
 
 <img width="1469" alt="reactivesystem" src="https://user-images.githubusercontent.com/16511837/30899573-bfa516e0-a3a3-11e7-9783-1cfd3a4934fd.png">
 
 
- #### (a) knockooutjs = [front-end website] 
+ #### (a) knockooutjs = [front-end website]
  #### (b) api =[selfhosted console-based api]
  #### (c) Actor-model akka.net = [message-passing]
  #### (d) signalr = push data to front-end
 
 ```
- clients[ computer-browser/mobile app] --> (a) html website [nodejs/iis]  --> (b) self hosted api [console application]  -->  (c) akka.net [console application]--> (d) signalr
+ clients[ computer-browser/mobile app] --> 
+ (a) html website [nodejs/iis]  --> 
+ (b) self hosted api [console application]  -->  
+ (c) akka.net [console application]--> 
+ (d) signalr
  ```
 
  ## Setup and run the application:
