@@ -4,7 +4,7 @@
 
 | Version | Build | DotNet | Dependency |
 | --- | --- | --- | --- |
-| ![GitHub release](https://img.shields.io/github/release/ajeetx/ko.signalr.selfhost.akka.svg) | [![Build Status](https://travis-ci.org/AJEETX/ko.signalr.selfhost.akka.png?branch=master&style=for-the-badge)](https://travis-ci.org/AJEETX/ko.signalr.selfhost.akka) | [![.Net Framework](https://img.shields.io/badge/DotNet-4.6.1-blue.svg?style=plastic)](https://www.microsoft.com/en-au/download/details.aspx?id=49981) | [![dependencies Status](https://img.shields.io/badge/dependency-none-brightgreen.svg?style=plastic)](https://img.shields.io/badge/dependency-none-brightgreen.svg) |
+| ![Wrapper](https://img.shields.io/badge/ko.signalr.selfhost.akka-stable-brightgreen.svg)  | [![Build Status](https://travis-ci.org/AJEETX/ko.signalr.selfhost.akka.png?branch=master&style=for-the-badge)](https://travis-ci.org/AJEETX/ko.signalr.selfhost.akka) | [![.Net Framework](https://img.shields.io/badge/DotNet-4.6.1-blue.svg?style=plastic)](https://www.microsoft.com/en-au/download/details.aspx?id=49981) | [![dependencies Status](https://img.shields.io/badge/dependency-none-brightgreen.svg?style=plastic)](https://img.shields.io/badge/dependency-none-brightgreen.svg) |
 
 
 <img width="1469" alt="reactivesystem" src="https://user-images.githubusercontent.com/16511837/30899573-bfa516e0-a3a3-11e7-9783-1cfd3a4934fd.png">
