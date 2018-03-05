@@ -1,10 +1,9 @@
-# A Reactive system ![GitHub release](https://img.shields.io/github/release/ajeetx/ko.signalr.selfhost.akka.svg?style=for-the-badge)
+# A Reactive system ![GitHub release](https://img.shields.io/github/release/ajeetx/ko.signalr.selfhost.akka.svg?style=for-the-badge)![GitHub Release Date](https://img.shields.io/github/release-date/ajeetx/ko.signalr.selfhost.akka.svg?style=plastic) ![Website](https://img.shields.io/website-stable-offline-green-red/http/ajeetx.github.io/ko.signalr.selfhost.akka.svg?label=status&style=plastic)
 
-> akka.net based highly scalable reactive web-application
-
-| Release | Build | .Net Version | Dependency | Language | Repo Size  |
+> > akka.net based highly scalable reactive web-application
+| Commit | Build | .Net Version | Languages | Language | Repo Size  |
 | --- | --- | --- | --- | --- | --- |
-|![GitHub Release Date](https://img.shields.io/github/release-date-pre/ajeetx/ko.signalr.selfhost.akka.svg)  | [![Build Status](https://travis-ci.org/AJEETX/ko.signalr.selfhost.akka.png?branch=master&style=for-the-badge)](https://travis-ci.org/AJEETX/ko.signalr.selfhost.akka) | [![.Net Framework](https://img.shields.io/badge/DotNet-4.6.1-blue.svg?style=plastic)](https://www.microsoft.com/en-au/download/details.aspx?id=49981) | [![dependencies Status](https://img.shields.io/badge/dependency-none-brightgreen.svg?style=plastic)](https://img.shields.io/badge/dependency-none-brightgreen.svg)| ![GitHub top language](https://img.shields.io/github/languages/top/ajeetx/ko.signalr.selfhost.akka.svg) |![GitHub repo size in bytes](https://img.shields.io/github/repo-size/ajeetx/ko.signalr.selfhost.akka.svg)
+|![Github commits (since latest release)](https://img.shields.io/github/commits-since/ajeetx/ko.signalr.selfhost.akka/latest.svg)  | [![Build Status](https://travis-ci.org/AJEETX/ko.signalr.selfhost.akka.png?branch=master&style=for-the-badge)](https://travis-ci.org/AJEETX/ko.signalr.selfhost.akka) | [![.Net Framework](https://img.shields.io/badge/DotNet-4.6.1-blue.svg?style=plastic)](https://www.microsoft.com/en-au/download/details.aspx?id=49981) | [![dependencies Status](https://img.shields.io/badge/dependency-none-brightgreen.svg?style=plastic)](https://img.shields.io/badge/dependency-none-brightgreen.svg)| ![GitHub top language](https://img.shields.io/github/languages/top/ajeetx/ko.signalr.selfhost.akka.svg) |![GitHub repo size in bytes](https://img.shields.io/github/repo-size/ajeetx/ko.signalr.selfhost.akka.svg)
 
 
 <img width="1469" alt="reactivesystem" src="https://user-images.githubusercontent.com/16511837/30899573-bfa516e0-a3a3-11e7-9783-1cfd3a4934fd.png">
