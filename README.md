@@ -1,4 +1,4 @@
-# A Reactive system ![GitHub release](https://img.shields.io/github/release/ajeetx/ko.signalr.selfhost.akka.svg?style=for-the-badge)![GitHub Release Date](https://img.shields.io/github/release-date/ajeetx/ko.signalr.selfhost.akka.svg?style=plastic) ![Website](https://img.shields.io/website-stable-offline-green-red/http/ajeetx.github.io/ko.signalr.selfhost.akka.svg?label=status&style=plastic)
+# A Reactive system ![GitHub release](https://img.shields.io/github/release/ajeetx/ko.signalr.selfhost.akka.svg?style=for-the-badge) ![GitHub Release Date](https://img.shields.io/github/release-date/ajeetx/ko.signalr.selfhost.akka.svg?style=plastic) ![Website](https://img.shields.io/website-stable-offline-green-red/http/ajeetx.github.io/ko.signalr.selfhost.akka.svg?label=status&style=plastic)
 
 >  akka.net based highly scalable reactive web-application
 >  
