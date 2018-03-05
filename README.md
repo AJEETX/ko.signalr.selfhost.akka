@@ -1,10 +1,10 @@
-# A simple Reactive system with message-passing ![GitHub release](https://img.shields.io/github/release/ajeetx/ko.signalr.selfhost.akka.svg?style=for-the-badge)
+# A Reactive system ![GitHub release](https://img.shields.io/github/release/ajeetx/ko.signalr.selfhost.akka.svg?style=for-the-badge)
 
 > akka.net based highly scalable reactive web-application
 
-| Version | Build | DotNet | Dependency |
-| --- | --- | --- | --- |
-| ![Wrapper](https://img.shields.io/badge/ko.signalr.selfhost.akka-stable-brightgreen.svg)  | [![Build Status](https://travis-ci.org/AJEETX/ko.signalr.selfhost.akka.png?branch=master&style=for-the-badge)](https://travis-ci.org/AJEETX/ko.signalr.selfhost.akka) | [![.Net Framework](https://img.shields.io/badge/DotNet-4.6.1-blue.svg?style=plastic)](https://www.microsoft.com/en-au/download/details.aspx?id=49981) | [![dependencies Status](https://img.shields.io/badge/dependency-none-brightgreen.svg?style=plastic)](https://img.shields.io/badge/dependency-none-brightgreen.svg) |
+| Release | Build | .Net Version | Dependency | Language | Repo Size  |
+| --- | --- | --- | --- | --- | --- |
+|![GitHub Release Date](https://img.shields.io/github/release-date-pre/ajeetx/ko.signalr.selfhost.akka.svg)  | [![Build Status](https://travis-ci.org/AJEETX/ko.signalr.selfhost.akka.png?branch=master&style=for-the-badge)](https://travis-ci.org/AJEETX/ko.signalr.selfhost.akka) | [![.Net Framework](https://img.shields.io/badge/DotNet-4.6.1-blue.svg?style=plastic)](https://www.microsoft.com/en-au/download/details.aspx?id=49981) | [![dependencies Status](https://img.shields.io/badge/dependency-none-brightgreen.svg?style=plastic)](https://img.shields.io/badge/dependency-none-brightgreen.svg)| ![GitHub top language](https://img.shields.io/github/languages/top/ajeetx/ko.signalr.selfhost.akka.svg) |![GitHub repo size in bytes](https://img.shields.io/github/repo-size/ajeetx/ko.signalr.selfhost.akka.svg)
 
 
 <img width="1469" alt="reactivesystem" src="https://user-images.githubusercontent.com/16511837/30899573-bfa516e0-a3a3-11e7-9783-1cfd3a4934fd.png">
@@ -57,8 +57,8 @@ If all goes good, then we need to run the projects one by one in sequence as lis
 
 Having any trouble? Check out our [documentation](https://github.com/AJEETX/ko.signalr.selfhost.akka/edit/master/README.md) or [contact support](mailto:ajeetkumar@email.com) and we’ll help you sort it out.
 
+|  Counter    | Contributor | Disclaimer
+| ---  | --- | --- |
+| [![HitCount](http://hits.dwyl.io/ajeetx//ko.signalr.selfhost.akka/projects/1.svg)](http://hits.dwyl.io/ajeetx//ko.signalr.selfhost.akka/projects/1)| ![GitHub contributors](https://img.shields.io/github/contributors/ajeetx/ko.signalr.selfhost.akka.svg?style=plastic)|![license](https://img.shields.io/github/license/ajeetx/ko.signalr.selfhost.akka.svg?style=plastic)
 
-> [![HitCount](http://hits.dwyl.io/ajeetx//ko.signalr.selfhost.akka/projects/1.svg)](http://hits.dwyl.io/ajeetx//ko.signalr.selfhost.akka/projects/1)
-
-cheers...
-
+> cheers...
