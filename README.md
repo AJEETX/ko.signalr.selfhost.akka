@@ -56,7 +56,7 @@ The project intends to have
 
 	home.html page displays the data.
 
-	![Alt text](/page.png?raw=true "Home page")
+![Alt text](/page.png?raw=true "Home page")
 	
 	
   > Please do CRUD operation and have play around.
